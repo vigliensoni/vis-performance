@@ -1,2 +1,3 @@
 # vis-performance
-Performance visualizer
+
+Performance visualizer based on Hydra by Olivia Jack.
